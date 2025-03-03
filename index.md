@@ -37,3 +37,5 @@ word = WORDS[randrange(len(WORDS) - 1)]
             playing = False
 
 ```
+- [ ] Do all github tutorials
+- [ ] Be less lazy
